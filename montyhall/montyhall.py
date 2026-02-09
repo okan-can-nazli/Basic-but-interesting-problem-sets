@@ -15,4 +15,4 @@ for i in range(experimental_case_number):
     if final_select == car_door:
         win += 1
 
-    print("%",win / experimental_case_number)
+    print("%",win / experimental_case_number * 100)
